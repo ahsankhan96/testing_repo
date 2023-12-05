@@ -8,5 +8,6 @@ namespace testing_repo
 {
     public class Class1
     {
+        public int id { get; set; }
     }
 }
